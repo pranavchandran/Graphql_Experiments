@@ -1,1 +1,1 @@
-![alt text](https://github.com/pranavchandran/Graphql_Experiments/graphqlcrud.png?raw=true)
+![alt text](https://github.com/pranavchandran/Graphql_Experiments/blob/main/graphqlcrud.png?raw=true)
